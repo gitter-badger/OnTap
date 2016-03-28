@@ -20,3 +20,24 @@ At least a way to handle the "self-serve" mode, meaning the client comes to the 
 --This avoids implementation of the second, small "server-app" mentioned in the spec.
 
 Reasonable quality UI --- clean, aesthetic, smooth function. Serious points here.
+
+
+Screens to be completed:
+- Login Screen (start screen)
+- Account creation (Email/pass)
+- Account creation (Payment/billing info)
+- Home Screen (Order drinks / manage account)
+  - ALERT (ENTERING OnTAP ID)
+- MyTab (drink tab / place order / order status)
+  - ALERT (ADDING DRINK)
+  - ALERT (PLACE ORDER)
+  - ALERT (ORDER READY)
+- Drink categories (Alcoholic)
+- Drink categories (Non-alcoholic)
+- Categorized drink menu (specific to category)
+  - ALERT (ADDING DRINK)
+- Account management screen (update / delete account)
+- Update account information
+- Update billing information
+- Delete account
+  - ALERT (DELETE ACCOUNT CONFIRMATION)
