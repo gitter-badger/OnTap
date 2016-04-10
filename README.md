@@ -1,5 +1,7 @@
 # OnTap
 
+[![Join the chat at https://gitter.im/ajs476/OnTap](https://badges.gitter.im/ajs476/OnTap.svg)](https://gitter.im/ajs476/OnTap?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Minimal work to be done (for a grade of C):
 
 Provide basic Thirstbuster client app functionality. Some things a basic system has to support include:
